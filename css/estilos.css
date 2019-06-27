@@ -5,3 +5,15 @@ Descripción: Examen práctico del MF0952_2 */
 body {
   margin-left: 5em
 }
+
+form {
+  margin-left: 10em;
+  margin-right: 60em;
+  background-color: rgb(122, 219, 231);
+}
+
+div {
+  margin-left: 10em;
+  margin-right: 60em;
+  text-align: center
+}
